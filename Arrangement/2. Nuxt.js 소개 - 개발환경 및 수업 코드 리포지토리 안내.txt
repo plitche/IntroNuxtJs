@@ -1,0 +1,2 @@
+	2. Nuxt.js 소개 - 개발환경 및 수업 코드 리포지토리 안내
+		* github.com/joshua1988/learn-nuxt
