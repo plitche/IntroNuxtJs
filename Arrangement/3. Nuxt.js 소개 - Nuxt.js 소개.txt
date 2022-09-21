@@ -1,1 +1,9 @@
 	3. Nuxt.js 소개 - Nuxt.js 소개
+		* nuxtjs.org
+		* joshua1988.github.io/vue-camp
+		
+		* Server side rendering framework
+		* 웹 애플리케이션을 제작할 때 필요한 뷰엑스, 라우터, Axios와 같은 라이브러리들을 미리 구성하여
+			싱글페이지 애플리케이션, 서버사이드 렌더링, 정적 웹 사이트를 쉽게 제작할 수 있다.
+			
+		
