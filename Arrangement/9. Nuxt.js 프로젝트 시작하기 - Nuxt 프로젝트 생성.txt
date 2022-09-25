@@ -1,1 +1,8 @@
 	9. Nuxt.js 프로젝트 시작하기 - Nuxt 프로젝트 생성
+		* https://nuxtjs.org/
+
+		* npm init nuxt-app learn-nuxt
+		* npm run dev
+		* npm run nuild
+		* npm run start
+		
