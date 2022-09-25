@@ -1,0 +1,2 @@
+	14. Nuxt.js 프로젝트 시작하기 - 넉스트의 라우팅 관련 컴포넌트 정리
+		* layouts > pages > components
