@@ -1,9 +1,5 @@
 <template>
-  <div>
-    <Nuxt />
-    <nuxt></nuxt>
-    <router-vue></router-vue>
-  </div>
+  <div>상품 페이지</div>
 </template>
 
 <script>
