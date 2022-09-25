@@ -1,0 +1,5 @@
+	11. Nuxt.js 프로젝트 시작하기 - 메인 페이지 생성 및 결과 확인
+		* nuxt의 특징: 파일 기반의 자동 라우팅
+		
+		* pages > index.vue (root url)
+		* 
