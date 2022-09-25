@@ -1,0 +1,10 @@
+	10. Nuxt.js 프로젝트 시작하기 - 프로젝트 폴더 구조 설명
+		* .nuxt: nuxt 빌드 결과물이 담기는 폴더
+		* assets: 이미지, css 등
+		* components: Vue 컴포넌트
+		* layouts: page layout을 담당하는 layout component
+		* middleware: server side rendering을 진행할 때 server에서 브라우저를 파일을 넘기기전에 항상 실행시키는 함수
+		* pages: 페이지 파일
+		* plugins
+		* static: 빌드를 했을 때 서버의 root주소로 옮기게될 변경이 필요하지 않은 favicon, logo 등
+		* store: vuex의 store
