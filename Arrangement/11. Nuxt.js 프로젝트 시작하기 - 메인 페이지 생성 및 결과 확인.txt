@@ -2,4 +2,3 @@
 		* nuxt의 특징: 파일 기반의 자동 라우팅
 		
 		* pages > index.vue (root url)
-		* 
