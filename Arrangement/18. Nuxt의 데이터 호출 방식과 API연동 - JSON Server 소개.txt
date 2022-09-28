@@ -1,0 +1,2 @@
+	18. Nuxt의 데이터 호출 방식과 API연동 - JSON Server 소개
+		* mock api(api 모방)
