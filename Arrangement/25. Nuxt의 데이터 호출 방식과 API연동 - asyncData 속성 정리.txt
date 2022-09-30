@@ -1,0 +1,1 @@
+	25. Nuxt의 데이터 호출 방식과 API연동 - asyncData 속성 정리
