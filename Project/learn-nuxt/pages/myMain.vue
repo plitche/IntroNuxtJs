@@ -14,18 +14,19 @@ export default {
   async asyncData() {
     const response = await axios.get('https://3000/products')
     console.log(response)
-    this.products = response.data
+    const products = response.data
+    return { products }
   },
-  data() {
-    return {
-      products: []
-    }
-  },
-  async created() {
-    const response = await axios.get('https://3000/products')
-    console.log(response)
-    this.products = response.data
-  }
+  // data() {
+  //   return {
+  //     products: []
+  //   }
+  // },
+  // async created() {
+  //   const response = await axios.get('https://3000/products')
+  //   console.log(response)
+  //   this.products = response.data
+  // }
 
 }
 </script>

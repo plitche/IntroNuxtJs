@@ -1,0 +1,2 @@
+	23. Nuxt의 데이터 호출 방식과 API연동 - asyncData 속성 안내 및 코드 수정
+		* asyncData는 페이지가 그려지기 전에 호출되는 로직이기 때문에 this 접근 불가
