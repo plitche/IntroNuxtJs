@@ -1,0 +1,2 @@
+	24. Nuxt의 데이터 호출 방식과 API연동 - asyncData 속성 주의사항
+		* pages라고하는 page컴포넌트에만 유용한 로직

@@ -1,16 +1,18 @@
 <template>
   <div>
     <p>메인 페이지입니다.</p>
-    <div>
-      {{ products }}
-    </div>
+    <ProductList></ProductList>
   </div>
 </template>
 
 <script>
 import axios from 'axios';
+import ProductList from '~/components/ProjectList.vue'
 
 export default {
+  components: {
+    ProductList
+  },
   async asyncData() {
     const response = await axios.get('https://3000/products')
     console.log(response)
